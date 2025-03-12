@@ -1,5 +1,6 @@
 ###
 ww1.goojara.to
+goojara.to
 104.21.33.208
 172.67.166.160
 lookmovie.onl
