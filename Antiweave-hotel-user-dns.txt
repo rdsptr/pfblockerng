@@ -9,7 +9,6 @@ www.lookmovie.onl
 2606:4700:3031::6815:f49
 172.67.161.237
 104.21.15.73
-www.amazon.com/amazonprime
 www.disneyplus.com
 disneyplus.com
 www.donkey.to
