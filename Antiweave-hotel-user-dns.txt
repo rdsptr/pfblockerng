@@ -71,6 +71,7 @@ tubi.com
 www.tubi.com
 
 ###
+production-cmp.isgprivacy.cbsi.com
 rum.browser-intake-datadoghq.com
 data.microsoft.com
 msftconnecttest.com
