@@ -46,6 +46,8 @@ netflix.com
 www.netflix.com
 spotify.com
 www.spotify.com
+open.spotify.com
+wwww.open.spotify.com
 tunein.com
 www.tunein.com
 9animetv.to
