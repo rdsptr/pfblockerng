@@ -1,12 +1,5 @@
 ###
-store.steampowered.com
-www.store.steampowered.com
-ea.com
-epicgames.com
-battle.net
-us.shop.battle.net
-www.battle.net
-www.us.shop.battle.net
+
 www.hulu.com
 hulu.com
 www.paramountplus.com
