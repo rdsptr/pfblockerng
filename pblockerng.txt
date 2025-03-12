@@ -4,12 +4,9 @@ www.aliexpress.com
 aliexpress.com
 www.temu.com
 temu.com
-www.tiktok.com
-tiktok.com
 www.alibaba.com
 alibaba.com
 music.apple.com
-apple.com
 www.lookmovies.com
 lookmovies.com
 www.imdb.com
@@ -23,4 +20,8 @@ hbo.com
 www.hbo.com
 shein.com.edgekey.net
 www.shein.com
-
+shein.com
+pin.tt
+www.pin.tt
+netflix.com
+www.netflix.com
