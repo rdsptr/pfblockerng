@@ -25,3 +25,7 @@ pin.tt
 www.pin.tt
 netflix.com
 www.netflix.com
+Spotify.com
+www.spotify.com
+tunein.com
+www.tunein.com
